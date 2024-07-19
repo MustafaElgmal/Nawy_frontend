@@ -1,7 +1,7 @@
-import { areas } from "@/constants";
+
 import React from "react";
 import AreaCard from "./AreaCard";
-import { AppProps } from "@/interfaces/App.interface";
+import { AppProps } from "../interfaces/App.interface";
 
 const TopArea = ({ area }: AppProps) => {
   return (

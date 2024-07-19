@@ -1,4 +1,4 @@
-import { property } from "@/interfaces/property.interface";
+import { property } from "../interfaces/property.interface";
 import React from "react";
 
 const CompoundLanding = ({ compound }: { compound: property }) => {

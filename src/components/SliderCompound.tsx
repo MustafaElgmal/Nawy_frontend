@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
 import CompoundCard from "./CompoundCard";
-import { AppProps } from "@/interfaces/App.interface";
+import { AppProps } from "../interfaces/App.interface";
 
 
 const SliderCompound = ({ slidesPerView, compounds }: AppProps) => {

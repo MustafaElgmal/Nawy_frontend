@@ -1,7 +1,7 @@
 import React from "react";
 
 import SliderCompound from "./SliderCompound";
-import { AppProps } from "@/interfaces/App.interface";
+import { AppProps } from "../interfaces/App.interface";
 
 
 const Compound = ({ compounds }: AppProps) => {

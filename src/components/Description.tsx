@@ -1,5 +1,5 @@
-import { unit } from "@/interfaces/unit.interface";
-import { calculateMonthlyPayment } from "@/utils/functions";
+import { unit } from "../interfaces/unit.interface";
+import { calculateMonthlyPayment } from "../utils/functions";
 import React from "react";
 
 const Description = ({ unit }: { unit: unit }) => {

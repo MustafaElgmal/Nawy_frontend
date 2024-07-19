@@ -1,5 +1,5 @@
 
-import { property } from "@/interfaces/property.interface";
+import { property } from "../interfaces/property.interface";
 import React from "react";
 import { useRouter } from "next/router";
 

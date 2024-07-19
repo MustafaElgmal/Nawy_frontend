@@ -1,4 +1,4 @@
-import { area } from "@/interfaces/area.interface";
+import { area } from "../interfaces/area.interface";
 import React from "react";
 import CompoundCardDetails from "./CompoundCardDetails";
 
